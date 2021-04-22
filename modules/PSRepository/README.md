@@ -4,12 +4,12 @@ The module creates, modifies and formats Repository directories on your local co
 
 # Content
 Functions:
-* Get-ItemInformation
-* Get-Repository
-* New-Repository
-* Format-Repository ``` Still buggy ```
+* [Get-ItemInformation](#Get-ItemInformation)
+* [Get-Repository](#Get-Repository)
+* [New-Repository](#New-Repository)
+* [Format-Repository](#Format-Repository) ``` Still buggy ```
 
-# Get-ItemInformation
+# <a name="Get-ItemInformation"></a>Get-ItemInformation
 ## Syntax
 ```PowerShell
 Get-ItemInformation [-Item] <string> [[-Path] <string>]  [<CommonParameters>]
@@ -23,7 +23,7 @@ Mandatory
 ``` -Path ``` Specify the Path.
 Set to ``` . ```; (current path)
 
-# Get-Repository
+# <a name="Get-Repository"></a>Get-Repository
 ## Syntax
 ```PowerShell
 Get-Repository [[-Repository] <string>]
@@ -33,7 +33,7 @@ Get-Repository [[-Repository] <string>]
 ``` -Repository ``` Specify the Repository.
 When this parameter isn't specified it will show all directories in the Repository Directory.
 
-# New-Repository
+# <a name="New-Repository"></a>New-Repository
 ## Syntax
 ```PowerShell
 New-Repository [-RepositoryName] <string> [[-AddReadme] <string>] [-OnBackground]  [<CommonParameters>]
@@ -51,7 +51,7 @@ Set to true
 ``` -OnBackground ``` When set to true, this will block all feedback.
 Set to ``` $false ```
 
-# Format-Repository
+# <a name="Format-Repository"></a>Format-Repository
 ## Syntax
 ```PowerShell
 Format-Repository [-RepositoryName] <string> [-DriveName] <string>  [<CommonParameters>]

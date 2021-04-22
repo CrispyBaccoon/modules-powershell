@@ -1,4 +1,4 @@
-# Add-Readme module
+# PSRepository Module
 Module adds support for "Repository" on your local computer.
 The module creates, modifies and formats Repository directories on your local computer.
 

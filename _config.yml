@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: "PowerShell Modules"
+show_downloads: true
 
 pages_list:
   home: 'https://crispybaccoon.github.io/modules-powershell/'

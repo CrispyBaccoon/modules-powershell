@@ -5,7 +5,11 @@ My Modules created for powershell
 [moduleweblink]: https://crispybaccoon.github.io/modules-powershell/
 
 ## Modules
-* Add-Readme
+[Modules][modulesWebLink]:
+* [Add-Readme][Add-ReadmeWebLink]
 
 ## Projects
 no projects
+
+[modulesWebLink]: https://crispybaccoon.github.io/modules-powershell/modules/
+[Add-ReadmeWebLink]: https://crispybaccoon.github.io/modules-powershell/modules/Add-Readme/

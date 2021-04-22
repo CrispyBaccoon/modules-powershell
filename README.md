@@ -1,7 +1,7 @@
 # modules-powershell
 My Modules created for powershell
 
-[Url to Webpage for this repo][moduleweblink]
+[Webpage for this repo][moduleweblink]
 
 
 ## Modules

@@ -7,6 +7,7 @@ My Modules created for powershell
 ## Modules
 [Modules][modulesWebLink]:
 * [Add-Readme][Add-ReadmeWebLink]
+* [PSRepository][psrepository]
 
 ## Projects
 no projects
@@ -14,3 +15,4 @@ no projects
 [moduleweblink]: https://crispybaccoon.github.io/modules-powershell/
 [modulesWebLink]: https://crispybaccoon.github.io/modules-powershell/modules/
 [Add-ReadmeWebLink]: https://crispybaccoon.github.io/modules-powershell/modules/Add-Readme/
+[psrepository]: https://crispybaccoon.github.io/modules-powershell/modules/PSRepository/

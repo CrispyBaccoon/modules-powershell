@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+pages_list:
+  home: 'https://crispybaccoon.github.io/modules-powershell/'
+  modules: 'https://crispybaccoon.github.io/modules-powershell/modules/'
+  Add-Readme: 'https://crispybaccoon.github.io/modules-powershell/modules/Add-Readme/'
+  PSRepository: 'https://crispybaccoon.github.io/modules-powershell/modules/PSRepository/'
+  
